@@ -1,0 +1,2 @@
+# Trabalho Introdução
+ Este programa em C irá calcular o faturamento de clientes e serviços. Ele usará vetores globais para armazenar os clientes e serviços, e uma matriz para os gastos de cada cliente em cada serviço. O programa incluirá funções para:  Calcular o total gasto por um cliente específico. Calcular a média dos gastos de todos os clientes. Exibir o faturamento total de cada tipo de serviço. Identificar o serviço com maior faturamento. Isso permitirá uma análise eficiente dos dados financeiros da empresa.
